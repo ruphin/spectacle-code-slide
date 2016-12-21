@@ -43,7 +43,7 @@ const style = {
   fontSize: '40px',
   height: '80vh',
   margin: 0,
-  padding: '40% 0',
+  padding: 0,
   whiteSpace: 'pre-wrap',
   wordBreak: 'break-word'
 };
